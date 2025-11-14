@@ -14,3 +14,6 @@ class Solution:
                 res.append(num)
                 if len(res) == k:
                     return res
+# Time Complexity: O(N)
+# Space Complexity: O(N)
+#Using Bucket Sort to group elements by frequency, then storing the top k frequent elements.
