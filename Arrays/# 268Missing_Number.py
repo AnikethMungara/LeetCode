@@ -8,7 +8,7 @@ class Solution:
         m_n= expected-actual
         return m_n
     
-#method 2: Using XOR; XOR all the numbers from 0 to n and XOR all the numbers in the array. The missing number will be the result of XORing these two results.
+#Method 2: Using XOR; XOR all the numbers from 0 to n and XOR all the numbers in the array. The missing number will be the result of XORing these two results.
 def missingNumber(nums):
     xor_all = 0
     n = len(nums)
