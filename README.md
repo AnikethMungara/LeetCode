@@ -29,5 +29,5 @@ Each directory contains the problem solution and any brief notes or alternative 
 
 ## Progress
 
-- Problems solved: 7
-- Last updated: 11/21/2025
+- Problems solved: 8
+- Last updated: 11/22/2025
