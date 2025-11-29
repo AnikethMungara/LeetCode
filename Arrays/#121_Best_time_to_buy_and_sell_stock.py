@@ -21,7 +21,9 @@ class Solution:
 
 
 
-#there is another approach using two pointer technique which has the same time and space complexity.
+#There is another approach using two pointer technique which has the same time and space complexity.
+
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         left, right = 0, 1
