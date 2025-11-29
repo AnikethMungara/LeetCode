@@ -1,3 +1,4 @@
+# Using a set to find the longest consecutive sequence in an unsorted array of integers.
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         numSet = set(nums)

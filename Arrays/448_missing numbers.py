@@ -1,9 +1,4 @@
 #Using a set to remove duplicates. Then scanning through the range from 1 to n, appending a new array with the missing numbers which is then returned.
-
-#Time complexity: O(n)
-
-#Space complexity: O(n)
-
 class Solution:
     def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
         nums_set= set(nums)
@@ -14,3 +9,6 @@ class Solution:
                 ret.append(i)
     
         return ret
+
+#Time complexity: O(n)
+#Space complexity: O(n)

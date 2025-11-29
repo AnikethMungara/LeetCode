@@ -1,3 +1,4 @@
+# Using two pointer approach to calculate the amount of water that can be trapped after raining given the heights of the bars.
 class Solution:
     def trap(self, height: List[int]) -> int:
         if not height: return 0
@@ -21,4 +22,4 @@ class Solution:
 
 # Time Complexity: O(n)
 # Space Complexity: O(1)
-# Using two pointer approach to calculate the amount of water that can be trapped after raining given the heights of the bars.
+

@@ -21,4 +21,4 @@ def missingNumber(nums):
     return xor_all
 
 
-#both have a time complexity of O(n) and space complexity of O(1).
+#Both have a time complexity of O(n) and space complexity of O(1).

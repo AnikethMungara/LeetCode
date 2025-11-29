@@ -1,3 +1,4 @@
+#Using two pointer approach to find two numbers in a sorted array that add up to a specific target.
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
 

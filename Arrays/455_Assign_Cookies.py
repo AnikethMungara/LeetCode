@@ -1,3 +1,4 @@
+#The algorithm sorts both the greed factors of the children and the sizes of the cookies. 
 class Solution(object):
     def findContentChildren(self, g, s):
         g.sort()
@@ -13,4 +14,4 @@ class Solution(object):
 #time complexity: O(n log n) due to sorting
 #space complexity: O(1) since we are using only a constant amount of extra space
 #We can not reduce the time complexity further because we need to sort the arrays to efficiently match cookies to children.
-#The algorithm sorts both the greed factors of the children and the sizes of the cookies. 
+

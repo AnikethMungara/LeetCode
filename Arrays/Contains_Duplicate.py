@@ -1,5 +1,3 @@
-# Time Complexity: O(n)
-# Space Complexity: O(n)
 #Using a Hashmap called hashset to store the elements as we iterate and compare through the list.
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
@@ -10,3 +8,6 @@ class Solution:
                 return True
             hashset.add(n)
         return False
+
+# Time Complexity: O(n)
+# Space Complexity: O(n)
