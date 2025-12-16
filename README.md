@@ -30,7 +30,7 @@ Each directory contains the problem solution and any brief notes or alternative 
 
 ## Progress
 
-- Problems solved: 16
+- Problems solved: 17
 
 - Last updated: 12/15/2025
  
