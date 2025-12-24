@@ -19,6 +19,7 @@ Each directory contains the problem solution and any brief notes or alternative 
 
 - C++
 - Python
+- Shell
 
 ## Purpose
 
@@ -31,6 +32,5 @@ Each directory contains the problem solution and any brief notes or alternative 
 ## Progress
 
 - Problems solved: 17
-
-- Last updated: 12/15/2025
+- Last updated: 12/22/2025
  
