@@ -31,6 +31,6 @@ Each directory contains the problem solution and any brief notes or alternative 
 
 ## Progress
 
-- Problems solved: 17
-- Last updated: 12/22/2025
+- Problems solved: 18
+- Last updated: 12/24/2025
  
