@@ -1,6 +1,4 @@
-
-#Time Complexity: O(n)
-
+#128. Valid Palindrome
 #Compares the left most and the right most characters of the string, ignoring non-alphanumeric characters and case differences.
 class Solution:
     def isPalindrome(self, s: str) -> bool:
