@@ -3,6 +3,9 @@
 # Total values of everything in the array is O+Special characters + Sum of special characters
 # o+2*sum of special characters = total
 
+#Time complexity: O(n)
+#Space complexity: O(n)
+
 class Solution:
     def getLargestOutlier(self, nums: List[int]) -> int:
         total = sum(nums)
